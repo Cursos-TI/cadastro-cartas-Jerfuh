@@ -9,7 +9,8 @@ int main() {
     float area;
     float pib;
     int pontosTuristicos;
-
+    int valorCarta;
+    
     printf("--- Cadastro de Cartas Super Trunfo ---\n");
 
     // Entrada de Dados
